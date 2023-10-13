@@ -2,9 +2,7 @@ import { useState } from 'react';
 import './App.css';
 import axios from 'axios';
 
-//defaultkey: fca_live_8FdPyp64BEEdgEPM5iclsz2N0MCVCqKxTs9SQ9ot
-
-const URL = "https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_8FdPyp64BEEdgEPM5iclsz2N0MCVCqKxTs9SQ9ot&currencies=GBP%2CEUR&base_currency=EUR"
+const URL = "api link"
 
 
 function App() {
